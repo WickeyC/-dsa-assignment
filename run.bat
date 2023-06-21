@@ -1,0 +1,1 @@
+javac -cp ".;lib/*" @sources.txt && java -cp ".;lib/*" main.Main
